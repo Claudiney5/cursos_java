@@ -1,4 +1,4 @@
-# Cursos de JAVA  :coffe:
+# Cursos de JAVA  :coffee:
 
 Coleção de exercícios feitos em cursos JAVA.
 
