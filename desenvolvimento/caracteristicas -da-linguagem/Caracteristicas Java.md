@@ -26,6 +26,7 @@ Portanto possuem MÉTODOS.
 - Long
 - Float
 - Double
+- Boolean
 - Character
 
 Auto-Boxing: passa um valor puro para um Wrapper (um objeto).
@@ -56,7 +57,7 @@ Vantagem de usar estes tipos é a possibilidade de usar seus MÉTODOS.
 
 ## MODIFICADORES DE ACESSO
 
-- **public**: pode ser acessada de uqalquer lugar por qualquer entidade que possa visualiczar a class a que ela pertence.
+- **public**: pode ser acessada de qualquer lugar por qualquer entidade que possa visualizar a classe a que ela pertence.
 
 - **private**: os métodos e atributos da classe definidos como privados não podem ser acessados ou usados por nenhuma outra classe. Também não podem ser visualizados pelas classes herdadas.
 
@@ -65,9 +66,9 @@ Vantagem de usar estes tipos é a possibilidade de usar seus MÉTODOS.
 - **default**: acessível apenas no mesmo pacote.
 
 
-- **abstract**: usado em classes e métodos. Classes abstratas não podem ser estanciadas. Seus atributos e métodos abstratos devem ser estaciadas pelas classes que a extenderem. Métodos abstrqatos só existem em classes abstratas.
+- **abstract**: usado em classes e métodos. Classes abstratas não podem ser instânciadas. Seus atributos e métodos abstratos devem ser instâciadas pelas classes que a extenderem. Métodos abstratos só existem em classes abstratas.
 
-- **static**: usado apra a criação de variáveis. O valor estará presente em todas as estâncias do objeto. Se alterado em uma estância, será alterado em todas as demais! O método _static_ pode ser chamado diretamente, sem instanciá-lo.
+- **static**: usado para a criação de variáveis. O valor estará presente em todas as instâncias do objeto. Se alterado em uma instância, será alterado em todas as demais! O método _static_ pode ser chamado diretamente, sem instanciá-lo.
 
 - **final**: quando aplicada a uma classe naõ permite estender. Nos métodos impede que o mesmo seja sobreescrito (@override) na subclasse. Nas varáveis não permite alteração no valor atribuído.
 
