@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/caracteristicas -da-linguagem.iml" filepath="$PROJECT_DIR$/.idea/modules/caracteristicas -da-linguagem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/strings.iml" filepath="$PROJECT_DIR$/.idea/modules/strings.iml" />
     </modules>
   </component>
 </project>

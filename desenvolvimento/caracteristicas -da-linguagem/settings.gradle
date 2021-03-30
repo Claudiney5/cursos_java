@@ -1,2 +1,3 @@
 rootProject.name = 'caracteristicas -da-linguagem'
+include 'strings'
 
