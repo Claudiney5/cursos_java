@@ -26,4 +26,10 @@ Uma Classe não deve ser forçada a implementar Interfaces e métodos que não s
 
 ### DEPENDENCY INVERTION PRINCIPLE
 
+> Dependa de abstrações e não de implementações.
+
+Um módulo de alto nível não deve depender de módulos de baixo nível. Ambos devem depender da sua abstração.
+
+ATENÇÃO: Inversão de Dependência nã é igual a Injeção de Dependência, que é um padrão de projetos.
+
 
