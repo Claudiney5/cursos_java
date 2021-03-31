@@ -1,6 +1,6 @@
 # S.O.L.I.D.
 
-Boas práticas da programação orientada a objetos aplicadas dao JAVA.
+Boas práticas da programação orientada a objetos aplicadas ao JAVA.
 
 ### SINGLE REPONSABILITY PRINCIPLE
 
