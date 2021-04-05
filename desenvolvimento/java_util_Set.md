@@ -20,7 +20,7 @@ Permite adição e remoção normalmente, mas não possui busca por item e atual
 
 ### LinkedHachSet
 
-- Quando é nedessário manter a orddem de inserção dos elementos. 
+- Quando é nedessário manter a ordem de inserção dos elementos. 
 - Mantêm a ordem de inserção dos elementos.
 - A implementaçção é mais lenta por ser necessário manter a ordem.
 
