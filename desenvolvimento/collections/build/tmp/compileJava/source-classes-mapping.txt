@@ -1,18 +1,24 @@
 one/innovation/digital/ExemploLinkedHashSet.java
  one.innovation.digital.ExemploLinkedHashSet
+one/innovation/digital/ExemploHashTable.java
+ one.innovation.digital.ExemploHashTable
+one/innovation/digital/comparators/Estudante.java
+ one.innovation.digital.comparators.Estudante
 one/innovation/digital/ListCollection.java
  one.innovation.digital.ListCollection
 one/innovation/digital/ExemploLinkedList.java
  one.innovation.digital.ExemploLinkedList
-one/innovation/digital/ExemploHashSet.java
- one.innovation.digital.ExemploHashSet
 one/innovation/digital/ExemploTreeSet.java
  one.innovation.digital.ExemploTreeSet
-one/innovation/digital/ExemploHashTable.java
- one.innovation.digital.ExemploHashTable
-one/innovation/digital/Vector.java
- one.innovation.digital.Vector
+one/innovation/digital/ExemploHashSet.java
+ one.innovation.digital.ExemploHashSet
 one/innovation/digital/ExemploTreeMap.java
  one.innovation.digital.ExemploTreeMap
 one/innovation/digital/ExemploHashMap.java
  one.innovation.digital.ExemploHashMap
+one/innovation/digital/Vector.java
+ one.innovation.digital.Vector
+one/innovation/digital/comparators/ExemploComparator.java
+ one.innovation.digital.comparators.ExemploComparator
+one/innovation/digital/comparators/EstudanteOrdemIdadeReversaComparator.java
+ one.innovation.digital.comparators.EstudanteOrdemIdadeReversaComparator
